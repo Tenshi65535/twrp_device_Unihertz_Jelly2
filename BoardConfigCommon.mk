@@ -164,3 +164,5 @@ TARGET_USES_LOGD := true
 # Hack to get keymaster to recognize the key files
 PLATFORM_SECURITY_PATCH := 2099-12-05
 VENDOR_SECURITY_PATCH := 2021-07-05
+
+BUILD_BROKEN_DUP_RULES := true
