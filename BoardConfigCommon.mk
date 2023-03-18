@@ -149,8 +149,8 @@ TW_EXTERNAL_STORAGE_MOUNT_POINT := "external_sd"
 TW_DEFAULT_EXTERNAL_STORAGE := true
 
 TW_USE_TOOLBOX := true
-TW_EXTRA_LANGUAGES := false
-TW_DEFAULT_LANGUAGE := en                    
+TW_EXTRA_LANGUAGES := true
+TW_DEFAULT_LANGUAGE := jp                    
 TW_NO_SCREEN_BLANK := true
 TW_NO_BATT_PERCENT := false
 TW_EXCLUDE_TWRPAPP := true
