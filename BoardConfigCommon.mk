@@ -150,7 +150,7 @@ TW_DEFAULT_EXTERNAL_STORAGE := true
 
 TW_USE_TOOLBOX := true
 TW_EXTRA_LANGUAGES := true
-TW_DEFAULT_LANGUAGE := jp                    
+TW_DEFAULT_LANGUAGE := ja_JP                    
 TW_NO_SCREEN_BLANK := true
 TW_NO_BATT_PERCENT := false
 TW_EXCLUDE_TWRPAPP := true
